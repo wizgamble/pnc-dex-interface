@@ -1,0 +1,1142 @@
+{
+  "data": {
+      "topTokens": [
+          {
+              "id": "VG9rZW46T1BUSU1JU01fMHgwYjJjNjM5YzUzMzgxM2Y0YWE5ZDc4MzdjYWY2MjY1M2QwOTdmZjg1",
+              "name": "USD Coin",
+              "chain": "OPTIMISM",
+              "address": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+              "symbol": "USDC",
+              "standard": "ERC20",
+              "market": {
+                  "id": "VG9rZW5NYXJrZXQ6T1BUSU1JU01fMHgwYjJDNjM5YzUzMzgxM2Y0QWE5RDc4MzdDQWY2MjY1M2QwOTdGZjg1X1VTRA==",
+                  "totalValueLocked": {
+                      "id": "QW1vdW50OjM4NDk3OTkuMTE0NDExOTAwOF9VU0Q=",
+                      "value": 3849799.1144119008,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "price": {
+                      "id": "QW1vdW50OjEuMDAxODAxNDA4Mjk4ODcyMl9VU0Q=",
+                      "value": 1.0018014082988722,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "pricePercentChange": {
+                      "id": "QW1vdW50OjAuMzkxNjYwNjYwNTUzMDY0MTRfVVNE",
+                      "currency": "USD",
+                      "value": 0.39166066055306414,
+                      "__typename": "Amount"
+                  },
+                  "volume": {
+                      "id": "QW1vdW50Ojg5MzU3NTIuMTEyMTI2MzVfVVNE",
+                      "value": 8935752.11212635,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "__typename": "TokenMarket"
+              },
+              "project": {
+                  "id": "VG9rZW5Qcm9qZWN0OkVUSEVSRVVNXzB4YTBiODY5OTFjNjIxOGIzNmMxZDE5ZDRhMmU5ZWIwY2UzNjA2ZWI0OF9VU0RD",
+                  "logoUrl": "https://coin-images.coingecko.com/coins/images/6319/large/usdc.png?1696506694",
+                  "__typename": "TokenProject"
+              },
+              "__typename": "Token"
+          },
+          {
+              "id": "VG9rZW46T1BUSU1JU01fMHg0MjAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA2",
+              "name": "Wrapped Ether",
+              "chain": "OPTIMISM",
+              "address": "0x4200000000000000000000000000000000000006",
+              "symbol": "WETH",
+              "standard": "ERC20",
+              "market": {
+                  "id": "VG9rZW5NYXJrZXQ6T1BUSU1JU01fMHg0MjAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA2X1VTRA==",
+                  "totalValueLocked": {
+                      "id": "QW1vdW50OjI0NDU2MzQuNTU5MTk1Nzk5M19VU0Q=",
+                      "value": 2445634.5591957993,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "price": {
+                      "id": "QW1vdW50OjI2NDIuODg1NDkxMTc4Mjk5X1VTRA==",
+                      "value": 2642.885491178299,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "pricePercentChange": {
+                      "id": "QW1vdW50Oi00LjE0Nzg1NTczMjAzMjc3MV9VU0Q=",
+                      "currency": "USD",
+                      "value": -4.147855732032771,
+                      "__typename": "Amount"
+                  },
+                  "volume": {
+                      "id": "QW1vdW50OjY2Njg3NDAuOTc4MTQ5NDE0X1VTRA==",
+                      "value": 6668740.978149414,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "__typename": "TokenMarket"
+              },
+              "project": {
+                  "id": "VG9rZW5Qcm9qZWN0OkVUSEVSRVVNXzB4YzAyYWFhMzliMjIzZmU4ZDBhMGU1YzRmMjdlYWQ5MDgzYzc1NmNjMl9MMiBTdGFuZGFyZCBCcmlkZ2VkIFdFVEggKE9wdGltaXNtKQ==",
+                  "logoUrl": "https://coin-images.coingecko.com/coins/images/39715/large/WETH.PNG?1723731805",
+                  "__typename": "TokenProject"
+              },
+              "__typename": "Token"
+          },
+          {
+              "id": "VG9rZW46T1BUSU1JU01fMHg5NGIwMDhhYTAwNTc5YzEzMDdiMGVmMmM0OTlhZDk4YThjZTU4ZTU4",
+              "name": "Tether USD",
+              "chain": "OPTIMISM",
+              "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+              "symbol": "USDT",
+              "standard": "ERC20",
+              "market": {
+                  "id": "VG9rZW5NYXJrZXQ6T1BUSU1JU01fMHg5NGIwMDhhQTAwNTc5YzEzMDdCMEVGMmM0OTlhRDk4YThjZTU4ZTU4X1VTRA==",
+                  "totalValueLocked": {
+                      "id": "QW1vdW50Oi0xNTU4OTk5LjgzODIwNF9VU0Q=",
+                      "value": -1558999.838204,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "price": {
+                      "id": "QW1vdW50OjAuOTk5OTk5OTk5OTk5OTk5OV9VU0Q=",
+                      "value": 0.9999999999999999,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "pricePercentChange": {
+                      "id": "QW1vdW50Oi0zLjMzMDY2OTA3Mzg3NTQ2OWUtMTRfVVNE",
+                      "currency": "USD",
+                      "value": -3.330669073875469E-14,
+                      "__typename": "Amount"
+                  },
+                  "volume": {
+                      "id": "QW1vdW50OjQ5MDgyMzguMTM5Njk2MTIxX1VTRA==",
+                      "value": 4908238.139696121,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "__typename": "TokenMarket"
+              },
+              "project": {
+                  "id": "VG9rZW5Qcm9qZWN0OkVUSEVSRVVNXzB4ZGFjMTdmOTU4ZDJlZTUyM2EyMjA2MjA2OTk0NTk3YzEzZDgzMWVjN19CcmlkZ2VkIFVTRFQ=",
+                  "logoUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+                  "__typename": "TokenProject"
+              },
+              "__typename": "Token"
+          },
+          {
+              "id": "VG9rZW46T1BUSU1JU01fMHg2OGYxODBmY2NlNjgzNjY4OGU5MDg0ZjAzNTMwOWUyOWJmMGEyMDk1",
+              "name": "Wrapped BTC",
+              "chain": "OPTIMISM",
+              "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+              "symbol": "WBTC",
+              "standard": "ERC20",
+              "market": {
+                  "id": "VG9rZW5NYXJrZXQ6T1BUSU1JU01fMHg2OGYxODBmY0NlNjgzNjY4OGU5MDg0ZjAzNTMwOUUyOUJmMEEyMDk1X1VTRA==",
+                  "totalValueLocked": {
+                      "id": "QW1vdW50Oi0yMTIxOTIwLjU0MTczOTg1MzZfVVNE",
+                      "value": -2121920.5417398536,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "price": {
+                      "id": "QW1vdW50OjEwNTcyOS4zMjAwNDM2NzM2NV9VU0Q=",
+                      "value": 105729.32004367365,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "pricePercentChange": {
+                      "id": "QW1vdW50Oi0yLjY2MTk1MTY5MTE2OTY5Ml9VU0Q=",
+                      "currency": "USD",
+                      "value": -2.661951691169692,
+                      "__typename": "Amount"
+                  },
+                  "volume": {
+                      "id": "QW1vdW50OjE3NjQ5ODkuMjg0MDM1NjgyN19VU0Q=",
+                      "value": 1764989.2840356827,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "__typename": "TokenMarket"
+              },
+              "project": {
+                  "id": "VG9rZW5Qcm9qZWN0OkVUSEVSRVVNXzB4MjI2MGZhYzVlNTU0MmE3NzNhYTQ0ZmJjZmVkZjdjMTkzYmMyYzU5OV9PcHRpbWlzbSBCcmlkZ2VkIFdCVEMgKE9wdGltaXNtKQ==",
+                  "logoUrl": "https://coin-images.coingecko.com/coins/images/39553/large/wbtc.png?1722897341",
+                  "__typename": "TokenProject"
+              },
+              "__typename": "Token"
+          },
+          {
+              "id": "VG9rZW46T1BUSU1JU01fMHg0MjAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDQy",
+              "name": "Optimism",
+              "chain": "OPTIMISM",
+              "address": "0x4200000000000000000000000000000000000042",
+              "symbol": "OP",
+              "standard": "ERC20",
+              "market": {
+                  "id": "VG9rZW5NYXJrZXQ6T1BUSU1JU01fMHg0MjAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDQyX1VTRA==",
+                  "totalValueLocked": {
+                      "id": "QW1vdW50OjI2Mzk3MjMuMjUyNjkyNzg2NV9VU0Q=",
+                      "value": 2639723.2526927865,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "price": {
+                      "id": "QW1vdW50OjAuNjM1MzcxMzQxOTk4NDg4OF9VU0Q=",
+                      "value": 0.6353713419984888,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "pricePercentChange": {
+                      "id": "QW1vdW50Oi03LjgwNzQ2MDg2MzE2NjQ3N19VU0Q=",
+                      "currency": "USD",
+                      "value": -7.807460863166477,
+                      "__typename": "Amount"
+                  },
+                  "volume": {
+                      "id": "QW1vdW50OjgzNjA4MC41Nzc5OTE0ODU2X1VTRA==",
+                      "value": 836080.5779914856,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "__typename": "TokenMarket"
+              },
+              "project": {
+                  "id": "VG9rZW5Qcm9qZWN0Ok9QVElNSVNNXzB4NDIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA0Ml9PcHRpbWlzbQ==",
+                  "logoUrl": "https://coin-images.coingecko.com/coins/images/25244/large/Optimism.png?1696524385",
+                  "__typename": "TokenProject"
+              },
+              "__typename": "Token"
+          },
+          {
+              "id": "VG9rZW46T1BUSU1JU01fMHg3ZjVjNzY0Y2JjMTRmOTY2OWI4ODgzN2NhMTQ5MGNjYTE3YzMxNjA3",
+              "name": "Bridged USDC",
+              "chain": "OPTIMISM",
+              "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+              "symbol": "USDC.e",
+              "standard": "ERC20",
+              "market": {
+                  "id": "VG9rZW5NYXJrZXQ6T1BUSU1JU01fMHg3RjVjNzY0Y0JjMTRmOTY2OUI4ODgzN2NhMTQ5MGNDYTE3YzMxNjA3X1VTRA==",
+                  "totalValueLocked": {
+                      "id": "QW1vdW50Oi0xNDIyODE5LjIyMjgzMTk5OTlfVVNE",
+                      "value": -1422819.2228319999,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "price": {
+                      "id": "QW1vdW50OjAuOTk5OTk5OTk5OTk5OTk5OV9VU0Q=",
+                      "value": 0.9999999999999999,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "pricePercentChange": {
+                      "id": "QW1vdW50Oi0zLjMzMDY2OTA3Mzg3NTQ2OWUtMTRfVVNE",
+                      "currency": "USD",
+                      "value": -3.330669073875469E-14,
+                      "__typename": "Amount"
+                  },
+                  "volume": {
+                      "id": "QW1vdW50OjY0MDEyMC4yNDE4NDQxNzcyX1VTRA==",
+                      "value": 640120.2418441772,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "__typename": "TokenMarket"
+              },
+              "project": {
+                  "id": "VG9rZW5Qcm9qZWN0OkVUSEVSRVVNXzB4YTBiODY5OTFjNjIxOGIzNmMxZDE5ZDRhMmU5ZWIwY2UzNjA2ZWI0OF9CcmlkZ2VkIFVTREM=",
+                  "logoUrl": "https://coin-images.coingecko.com/coins/images/31580/large/USDC-icon.png?1696530397",
+                  "__typename": "TokenProject"
+              },
+              "__typename": "Token"
+          },
+          {
+              "id": "VG9rZW46T1BUSU1JU01fMHg2Yzg0YThmMWMyOTEwOGY0N2E3OTk2NGI1ZmU4ODhkNGY0ZDBkZTQw",
+              "name": "Optimism tBTC v2",
+              "chain": "OPTIMISM",
+              "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+              "symbol": "tBTC",
+              "standard": "ERC20",
+              "market": {
+                  "id": "VG9rZW5NYXJrZXQ6T1BUSU1JU01fMHg2Yzg0YThmMWMyOTEwOEY0N2E3OTk2NGI1RmU4ODhENGY0RDBkRTQwX1VTRA==",
+                  "totalValueLocked": {
+                      "id": "QW1vdW50OjE1Mjg5OC43NDg2NTIwMDQyM19VU0Q=",
+                      "value": 152898.74865200423,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "price": {
+                      "id": "QW1vdW50OjEwNTgzMi42MTY5MjcxNjgxX1VTRA==",
+                      "value": 105832.6169271681,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "pricePercentChange": {
+                      "id": "QW1vdW50Oi0xLjgyMzg5MTIwNTE4ODg3MThfVVNE",
+                      "currency": "USD",
+                      "value": -1.8238912051888718,
+                      "__typename": "Amount"
+                  },
+                  "volume": {
+                      "id": "QW1vdW50OjM4MTYyMC45NjEwNzY5MTUyNl9VU0Q=",
+                      "value": 381620.96107691526,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "__typename": "TokenMarket"
+              },
+              "project": {
+                  "id": "VG9rZW5Qcm9qZWN0OkVUSEVSRVVNXzB4MTgwODRmYmE2NjZhMzNkMzc1OTJmYTI2MzNmZDQ5YTc0ZGQ5M2E4OF90QlRD",
+                  "logoUrl": "https://coin-images.coingecko.com/coins/images/11224/large/0x18084fba666a33d37592fa2633fd49a74dd93a88.png?1696511155",
+                  "__typename": "TokenProject"
+              },
+              "__typename": "Token"
+          },
+          {
+              "id": "VG9rZW46T1BUSU1JU01fMHhkYTEwMDA5Y2JkNWQwN2RkMGNlY2M2NjE2MWZjOTNkN2M5MDAwZGEx",
+              "name": "Dai Stablecoin",
+              "chain": "OPTIMISM",
+              "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+              "symbol": "DAI",
+              "standard": "ERC20",
+              "market": {
+                  "id": "VG9rZW5NYXJrZXQ6T1BUSU1JU01fMHhEQTEwMDA5Y0JkNUQwN2RkMENlQ2M2NjE2MUZDOTNEN2M5MDAwZGExX1VTRA==",
+                  "totalValueLocked": {
+                      "id": "QW1vdW50Oi0xMzQ1NTY4NS44MTA5MzU0MTNfVVNE",
+                      "value": -1.3455685810935413E7,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "price": {
+                      "id": "QW1vdW50OjAuOTk5MjUzNjc4Mjk2MjYwOF9VU0Q=",
+                      "value": 0.9992536782962608,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "pricePercentChange": {
+                      "id": "QW1vdW50Oi0wLjA3NDYzMjE3MDM3Mzk0NDk2X1VTRA==",
+                      "currency": "USD",
+                      "value": -0.07463217037394496,
+                      "__typename": "Amount"
+                  },
+                  "volume": {
+                      "id": "QW1vdW50OjE4NjQxNC44NjE1Nzg5NDEzNV9VU0Q=",
+                      "value": 186414.86157894135,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "__typename": "TokenMarket"
+              },
+              "project": {
+                  "id": "VG9rZW5Qcm9qZWN0OkVUSEVSRVVNXzB4NmIxNzU0NzRlODkwOTRjNDRkYTk4Yjk1NGVlZGVhYzQ5NTI3MWQwZl9NYWtlckRBTyBPcHRpbWlzbSBCcmlkZ2VkIERBSSAoT3B0aW1pc20p",
+                  "logoUrl": "https://coin-images.coingecko.com/coins/images/39818/large/dai.png?1724190656",
+                  "__typename": "TokenProject"
+              },
+              "__typename": "Token"
+          },
+          {
+              "id": "VG9rZW46T1BUSU1JU01fMHhlZjQ0NjE4OTFkZmIzYWM4NTcyY2NmN2M3OTQ2NjRhOGRkOTI3OTQ1",
+              "name": "WalletConnect",
+              "chain": "OPTIMISM",
+              "address": "0xeF4461891DfB3AC8572cCf7C794664A8DD927945",
+              "symbol": "WCT",
+              "standard": "ERC20",
+              "market": {
+                  "id": "VG9rZW5NYXJrZXQ6T1BUSU1JU01fMHhlRjQ0NjE4OTFEZkIzQUM4NTcyY0NmN0M3OTQ2NjRBOEREOTI3OTQ1X1VTRA==",
+                  "totalValueLocked": {
+                      "id": "QW1vdW50OjgxNzYyNS41MzE2NzI1MDQ0X1VTRA==",
+                      "value": 817625.5316725044,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "price": {
+                      "id": "QW1vdW50OjAuMzc4OTM4MTk2MzY5OTAzOV9VU0Q=",
+                      "value": 0.3789381963699039,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "pricePercentChange": {
+                      "id": "QW1vdW50Oi05LjIwMzIxOTQyMTYyMDM4Nl9VU0Q=",
+                      "currency": "USD",
+                      "value": -9.203219421620386,
+                      "__typename": "Amount"
+                  },
+                  "volume": {
+                      "id": "QW1vdW50OjEzMDkwOC45OTQ2MjgzMDI3NV9VU0Q=",
+                      "value": 130908.99462830275,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "__typename": "TokenMarket"
+              },
+              "project": {
+                  "id": "VG9rZW5Qcm9qZWN0OkVUSEVSRVVNXzB4ZWY0NDYxODkxZGZiM2FjODU3MmNjZjdjNzk0NjY0YThkZDkyNzk0NV9XYWxsZXRDb25uZWN0IFRva2Vu",
+                  "logoUrl": "https://coin-images.coingecko.com/coins/images/50390/large/wc-token1.png?1727569464",
+                  "__typename": "TokenProject"
+              },
+              "__typename": "Token"
+          },
+          {
+              "id": "VG9rZW46T1BUSU1JU01fMHhkYzZmZjQ0ZDVkOTMyY2JkNzdiNTJlNTYxMmJhMDUyOWRjNjIyNmYx",
+              "name": "Worldcoin",
+              "chain": "OPTIMISM",
+              "address": "0xdC6fF44d5d932Cbd77B52E5612Ba0529DC6226F1",
+              "symbol": "WLD",
+              "standard": "ERC20",
+              "market": {
+                  "id": "VG9rZW5NYXJrZXQ6T1BUSU1JU01fMHhkQzZmRjQ0ZDVkOTMyQ2JkNzdCNTJFNTYxMkJhMDUyOURDNjIyNkYxX1VTRA==",
+                  "totalValueLocked": {
+                      "id": "QW1vdW50OjQwOTAxOS4xNDg5MjMwOTk3NF9VU0Q=",
+                      "value": 409019.14892309974,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "price": {
+                      "id": "QW1vdW50OjEuMDI1NTIwMjYyMTQ4NTQ0OV9VU0Q=",
+                      "value": 1.0255202621485449,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "pricePercentChange": {
+                      "id": "QW1vdW50Oi02Ljk0ODE3NzI3NzMwNTgxN19VU0Q=",
+                      "currency": "USD",
+                      "value": -6.948177277305817,
+                      "__typename": "Amount"
+                  },
+                  "volume": {
+                      "id": "QW1vdW50Ojg2MDU3Ljg5OTk3MjU1ODAyX1VTRA==",
+                      "value": 86057.89997255802,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "__typename": "TokenMarket"
+              },
+              "project": {
+                  "id": "VG9rZW5Qcm9qZWN0OkVUSEVSRVVNXzB4MTYzZjhjMjQ2NzkyNGJlMGFlN2I1MzQ3MjI4Y2FiZjI2MDMxODc1M19Xb3JsZGNvaW4=",
+                  "logoUrl": "https://coin-images.coingecko.com/coins/images/31069/large/worldcoin.jpeg?1696529903",
+                  "__typename": "TokenProject"
+              },
+              "__typename": "Token"
+          },
+          {
+              "id": "VG9rZW46T1BUSU1JU01fMHg4NzAwZGFlYzM1YWY4ZmY4OGMxNmJkZjA0MTg3NzRjYjNkNzU5OWI0",
+              "name": "Synthetix Network Token",
+              "chain": "OPTIMISM",
+              "address": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
+              "symbol": "SNX",
+              "standard": "ERC20",
+              "market": {
+                  "id": "VG9rZW5NYXJrZXQ6T1BUSU1JU01fMHg4NzAwZEFlYzM1YUY4RmY4OGMxNkJkRjA0MTg3NzRDQjNENzU5OUI0X1VTRA==",
+                  "totalValueLocked": {
+                      "id": "QW1vdW50OjM2NjUxMi4wOTk0MjM3MDM3NF9VU0Q=",
+                      "value": 366512.09942370374,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "price": {
+                      "id": "QW1vdW50OjAuNjQ4OTI0OTU2ODUxOTg0MV9VU0Q=",
+                      "value": 0.6489249568519841,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "pricePercentChange": {
+                      "id": "QW1vdW50Oi02LjU4NjU0MDY4NzMzMjkwN19VU0Q=",
+                      "currency": "USD",
+                      "value": -6.586540687332907,
+                      "__typename": "Amount"
+                  },
+                  "volume": {
+                      "id": "QW1vdW50OjY1MTIxLjU5MTAzNDg4OTIyX1VTRA==",
+                      "value": 65121.59103488922,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "__typename": "TokenMarket"
+              },
+              "project": {
+                  "id": "VG9rZW5Qcm9qZWN0OkVUSEVSRVVNXzB4YzAxMWE3M2VlODU3NmZiNDZmNWUxYzU3NTFjYTNiOWZlMGFmMmE2Zl9TeW50aGV0aXggTmV0d29yaw==",
+                  "logoUrl": "https://coin-images.coingecko.com/coins/images/3406/large/SNX.png?1696504103",
+                  "__typename": "TokenProject"
+              },
+              "__typename": "Token"
+          },
+          {
+              "id": "VG9rZW46T1BUSU1JU01fMHgxZjMyYjFjMjM0NTUzOGMwYzZmNTgyZmNiMDIyNzM5YzRhMTk0ZWJi",
+              "name": "Wrapped liquid staked Ether 2.0",
+              "chain": "OPTIMISM",
+              "address": "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb",
+              "symbol": "wstETH",
+              "standard": "ERC20",
+              "market": {
+                  "id": "VG9rZW5NYXJrZXQ6T1BUSU1JU01fMHgxRjMyYjFjMjM0NTUzOGMwYzZmNTgyZkNCMDIyNzM5YzRBMTk0RWJiX1VTRA==",
+                  "totalValueLocked": {
+                      "id": "QW1vdW50OjY3NjAzMy4wMTc1NDg5OTkzX1VTRA==",
+                      "value": 676033.0175489993,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "price": {
+                      "id": "QW1vdW50OjMxODMuODg0MzY5MDEzODY3X1VTRA==",
+                      "value": 3183.884369013867,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "pricePercentChange": {
+                      "id": "QW1vdW50Oi00LjE0ODc1NzMyMzkwOTkzOF9VU0Q=",
+                      "currency": "USD",
+                      "value": -4.148757323909938,
+                      "__typename": "Amount"
+                  },
+                  "volume": {
+                      "id": "QW1vdW50OjYwMzk5LjMyNjI2NjA1MDM0X1VTRA==",
+                      "value": 60399.32626605034,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "__typename": "TokenMarket"
+              },
+              "project": {
+                  "id": "VG9rZW5Qcm9qZWN0Ok9QVElNSVNNXzB4MWYzMmIxYzIzNDU1MzhjMGM2ZjU4MmZjYjAyMjczOWM0YTE5NGViYl9TdXBlcmJyaWRnZSBCcmlkZ2VkIHdzdEVUSCAoT3B0aW1pc20p",
+                  "logoUrl": "https://coin-images.coingecko.com/coins/images/53104/large/superbridge-bridged-wsteth-optimism.webp?1735228418",
+                  "__typename": "TokenProject"
+              },
+              "__typename": "Token"
+          },
+          {
+              "id": "VG9rZW46T1BUSU1JU01fMHg2OTg1ODg0YzQzOTJkMzQ4NTg3YjE5Y2I5ZWFhZjE1N2YxMzI3MWNk",
+              "name": "LayerZero",
+              "chain": "OPTIMISM",
+              "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
+              "symbol": "ZRO",
+              "standard": "ERC20",
+              "market": {
+                  "id": "VG9rZW5NYXJrZXQ6T1BUSU1JU01fMHg2OTg1ODg0QzQzOTJEMzQ4NTg3QjE5Y2I5ZUFBZjE1N0YxMzI3MWNkX1VTRA==",
+                  "totalValueLocked": {
+                      "id": "QW1vdW50OjBfVVNE",
+                      "value": 0.0,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "price": {
+                      "id": "QW1vdW50OjBfVVNE",
+                      "value": 0.0,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "pricePercentChange": null,
+                  "volume": {
+                      "id": "QW1vdW50OjQ2ODk4Ljg3NjQ2MTc4OTAxX1VTRA==",
+                      "value": 46898.87646178901,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "__typename": "TokenMarket"
+              },
+              "project": {
+                  "id": "VG9rZW5Qcm9qZWN0OkVUSEVSRVVNXzB4Njk4NTg4NGM0MzkyZDM0ODU4N2IxOWNiOWVhYWYxNTdmMTMyNzFjZF9MYXllclplcm8=",
+                  "logoUrl": "https://coin-images.coingecko.com/coins/images/28206/large/ftxG9_TJ_400x400.jpeg?1696527208",
+                  "__typename": "TokenProject"
+              },
+              "__typename": "Token"
+          },
+          {
+              "id": "VG9rZW46T1BUSU1JU01fMHg3NmZiMzFmYjRhZjU2ODkyYTI1ZTMyY2ZjNDNkZTcxNzk1MGM5Mjc4",
+              "name": "Aave Token",
+              "chain": "OPTIMISM",
+              "address": "0x76FB31fb4af56892A25e32cFC43De717950c9278",
+              "symbol": "AAVE",
+              "standard": "ERC20",
+              "market": {
+                  "id": "VG9rZW5NYXJrZXQ6T1BUSU1JU01fMHg3NkZCMzFmYjRhZjU2ODkyQTI1ZTMyY0ZDNDNEZTcxNzk1MGM5Mjc4X1VTRA==",
+                  "totalValueLocked": {
+                      "id": "QW1vdW50OjgyODU3Ljc2Mjk4NzExMDc4X1VTRA==",
+                      "value": 82857.76298711078,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "price": {
+                      "id": "QW1vdW50OjI5MC4wNDMzNDA0Nzc3NTA0Nl9VU0Q=",
+                      "value": 290.04334047775046,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "pricePercentChange": {
+                      "id": "QW1vdW50Oi0zLjM4MjM2Mzc0MjQyNDcyMV9VU0Q=",
+                      "currency": "USD",
+                      "value": -3.382363742424721,
+                      "__typename": "Amount"
+                  },
+                  "volume": {
+                      "id": "QW1vdW50OjM4ODQyLjE3Nzc3NTIwNDE4X1VTRA==",
+                      "value": 38842.17777520418,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "__typename": "TokenMarket"
+              },
+              "project": {
+                  "id": "VG9rZW5Qcm9qZWN0OkVUSEVSRVVNXzB4N2ZjNjY1MDBjODRhNzZhZDdlOWM5MzQzN2JmYzVhYzMzZTJkZGFlOV9BYXZl",
+                  "logoUrl": "https://coin-images.coingecko.com/coins/images/12645/large/aave-token-round.png?1720472354",
+                  "__typename": "TokenProject"
+              },
+              "__typename": "Token"
+          },
+          {
+              "id": "VG9rZW46T1BUSU1JU01fMHhlYjQ2NjM0MmM0ZDQ0OWJjOWY1M2E4NjVkNWNiOTA1ODZmNDA1MjE1",
+              "name": "Axelar Wrapped USDC",
+              "chain": "OPTIMISM",
+              "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+              "symbol": "axlUSDC",
+              "standard": "ERC20",
+              "market": {
+                  "id": "VG9rZW5NYXJrZXQ6T1BUSU1JU01fMHhFQjQ2NjM0MkM0ZDQ0OUJDOWY1M0E4NjVENUNiOTA1ODZmNDA1MjE1X1VTRA==",
+                  "totalValueLocked": {
+                      "id": "QW1vdW50OjIxMjk0NC4xNzI2OTIwODc1N19VU0Q=",
+                      "value": 212944.17269208757,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "price": {
+                      "id": "QW1vdW50OjEuMDAwMTk0MDg5NzgzMjI4OV9VU0Q=",
+                      "value": 1.0001940897832289,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "pricePercentChange": {
+                      "id": "QW1vdW50Oi0wLjAwMjEyOTMyMDM3NDYwODQ2NjNfVVNE",
+                      "currency": "USD",
+                      "value": -0.0021293203746084663,
+                      "__typename": "Amount"
+                  },
+                  "volume": {
+                      "id": "QW1vdW50OjYyODc3Ljc2MDUwNjIxMjcxX1VTRA==",
+                      "value": 62877.76050621271,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "__typename": "TokenMarket"
+              },
+              "project": {
+                  "id": "VG9rZW5Qcm9qZWN0OlBPTFlHT05fMHg3NTBlNGM0OTg0YTllMGYxMjk3OGVhNjc0MmJjMWM1ZDI0OGY0MGVkX0F4ZWxhciBCcmlkZ2VkIFVTREM=",
+                  "logoUrl": "https://coin-images.coingecko.com/coins/images/26476/large/uausdc_D_3x.png?1696525548",
+                  "__typename": "TokenProject"
+              },
+              "__typename": "Token"
+          },
+          {
+              "id": "VG9rZW46T1BUSU1JU01fMHgxNDc3ODg2MGU5MzdmNTA5ZTY1MTE5MmE5MDU4OWRlNzExZmI4OGE5",
+              "name": "CyberConnect",
+              "chain": "OPTIMISM",
+              "address": "0x14778860E937f509e651192a90589dE711Fb88a9",
+              "symbol": "CYBER",
+              "standard": "ERC20",
+              "market": {
+                  "id": "VG9rZW5NYXJrZXQ6T1BUSU1JU01fMHgxNDc3ODg2MEU5MzdmNTA5ZTY1MTE5MmE5MDU4OWRFNzExRmI4OGE5X1VTRA==",
+                  "totalValueLocked": {
+                      "id": "QW1vdW50OjYzNjI5LjM1OTM1MzYxMTg2X1VTRA==",
+                      "value": 63629.35935361186,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "price": {
+                      "id": "QW1vdW50OjEuMjU2OTg5MzMwNzExMTE1M19VU0Q=",
+                      "value": 1.2569893307111153,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "pricePercentChange": {
+                      "id": "QW1vdW50Oi04LjUzODc4Mzc3MzEyMDY2MV9VU0Q=",
+                      "currency": "USD",
+                      "value": -8.538783773120661,
+                      "__typename": "Amount"
+                  },
+                  "volume": {
+                      "id": "QW1vdW50OjM4NzcwLjY1NzMyMzIxODg4X1VTRA==",
+                      "value": 38770.65732321888,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "__typename": "TokenMarket"
+              },
+              "project": {
+                  "id": "VG9rZW5Qcm9qZWN0OkVUSEVSRVVNXzB4MTQ3Nzg4NjBlOTM3ZjUwOWU2NTExOTJhOTA1ODlkZTcxMWZiODhhOV9DWUJFUg==",
+                  "logoUrl": "https://coin-images.coingecko.com/coins/images/31274/large/token.png?1715826754",
+                  "__typename": "TokenProject"
+              },
+              "__typename": "Token"
+          },
+          {
+              "id": "VG9rZW46T1BUSU1JU01fMHgzNTBhNzkxYmZjMmMyMWY5ZWQ1ZDEwOTgwZGFkMmUyNjM4ZmZhN2Y2",
+              "name": "ChainLink Token",
+              "chain": "OPTIMISM",
+              "address": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
+              "symbol": "LINK",
+              "standard": "ERC20",
+              "market": {
+                  "id": "VG9rZW5NYXJrZXQ6T1BUSU1JU01fMHgzNTBhNzkxQmZjMkMyMUY5RWQ1ZDEwOTgwRGFkMmUyNjM4ZmZhN2Y2X1VTRA==",
+                  "totalValueLocked": {
+                      "id": "QW1vdW50Oi02NTM0OS4xOTE5OTUzODAxMjZfVVNE",
+                      "value": -65349.191995380126,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "price": {
+                      "id": "QW1vdW50OjEzLjkxODU4NjE3ODYwNjkyOF9VU0Q=",
+                      "value": 13.918586178606928,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "pricePercentChange": {
+                      "id": "QW1vdW50Oi02LjkxNTM3ODE5NTM3NzQ5OV9VU0Q=",
+                      "currency": "USD",
+                      "value": -6.915378195377499,
+                      "__typename": "Amount"
+                  },
+                  "volume": {
+                      "id": "QW1vdW50OjI3MDEzLjQ0NTk0OTI3MTMyX1VTRA==",
+                      "value": 27013.44594927132,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "__typename": "TokenMarket"
+              },
+              "project": {
+                  "id": "VG9rZW5Qcm9qZWN0OkVUSEVSRVVNXzB4NTE0OTEwNzcxYWY5Y2E2NTZhZjg0MGRmZjgzZTgyNjRlY2Y5ODZjYV9DaGFpbmxpbms=",
+                  "logoUrl": "https://coin-images.coingecko.com/coins/images/877/large/chainlink-new-logo.png?1696502009",
+                  "__typename": "TokenProject"
+              },
+              "__typename": "Token"
+          },
+          {
+              "id": "VG9rZW46T1BUSU1JU01fMHgyZTNkODcwNzkwZGM3N2E4M2RkMWQxODE4NGFjYzc0MzlhNTNmNDc1",
+              "name": "Legacy Frax Dollar",
+              "chain": "OPTIMISM",
+              "address": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
+              "symbol": "FRAX",
+              "standard": "ERC20",
+              "market": {
+                  "id": "VG9rZW5NYXJrZXQ6T1BUSU1JU01fMHgyRTNEODcwNzkwZEM3N0E4M0REMWQxODE4NEFjYzc0MzlBNTNmNDc1X1VTRA==",
+                  "totalValueLocked": {
+                      "id": "QW1vdW50OjBfVVNE",
+                      "value": 0.0,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "price": {
+                      "id": "QW1vdW50OjBfVVNE",
+                      "value": 0.0,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "pricePercentChange": null,
+                  "volume": {
+                      "id": "QW1vdW50OjI0Mjk0LjE1MDU1OTQxMDQ1M19VU0Q=",
+                      "value": 24294.150559410453,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "__typename": "TokenMarket"
+              },
+              "project": {
+                  "id": "VG9rZW5Qcm9qZWN0OkVUSEVSRVVNXzB4ODUzZDk1NWFjZWY4MjJkYjA1OGViODUwNTkxMWVkNzdmMTc1Yjk5ZV9MZWdhY3kgRnJheCBEb2xsYXI=",
+                  "logoUrl": "https://coin-images.coingecko.com/coins/images/13422/large/frax-logo.png?1739780303",
+                  "__typename": "TokenProject"
+              },
+              "__typename": "Token"
+          },
+          {
+              "id": "VG9rZW46T1BUSU1JU01fMHg4YzZmMjhmMmYxYTNjODdmMGY5MzhiOTZkMjc1MjBkOTc1MWVjOGQ5",
+              "name": "sUSD  Optimism ",
+              "chain": "OPTIMISM",
+              "address": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
+              "symbol": "SUSD",
+              "standard": "ERC20",
+              "market": {
+                  "id": "VG9rZW5NYXJrZXQ6T1BUSU1JU01fMHg4YzZmMjhmMkYxQTNDODdGMGY5MzhiOTZkMjc1MjBkOTc1MWVjOGQ5X1VTRA==",
+                  "totalValueLocked": {
+                      "id": "QW1vdW50Oi00Nzg4Mzg1LjYzNjM4Mzc5OV9VU0Q=",
+                      "value": -4788385.636383799,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "price": {
+                      "id": "QW1vdW50OjBfVVNE",
+                      "value": 0.0,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "pricePercentChange": null,
+                  "volume": {
+                      "id": "QW1vdW50OjEyOTczLjI1NzM5MzgzNjk3NV9VU0Q=",
+                      "value": 12973.257393836975,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "__typename": "TokenMarket"
+              },
+              "project": {
+                  "id": "VG9rZW5Qcm9qZWN0Ok9QVElNSVNNXzB4OGM2ZjI4ZjJmMWEzYzg3ZjBmOTM4Yjk2ZDI3NTIwZDk3NTFlYzhkOV9zVVNEIChPcHRpbWlzbSk=",
+                  "logoUrl": "https://coin-images.coingecko.com/coins/images/37867/large/sus.png?1715815715",
+                  "__typename": "TokenProject"
+              },
+              "__typename": "Token"
+          },
+          {
+              "id": "VG9rZW46T1BUSU1JU01fMHg5ZTEwMjhmNWYxZDVlZGU1OTc0OGZmY2VlNTUzMjUwOTk3Njg0MGUw",
+              "name": "Perpetual",
+              "chain": "OPTIMISM",
+              "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
+              "symbol": "PERP",
+              "standard": "ERC20",
+              "market": {
+                  "id": "VG9rZW5NYXJrZXQ6T1BUSU1JU01fMHg5ZTEwMjhGNUYxRDVlREU1OTc0OEZGY2VFNTUzMjUwOTk3Njg0MEUwX1VTRA==",
+                  "totalValueLocked": {
+                      "id": "QW1vdW50OjY0MzA3MC4xMzE0MDcxMzI3X1VTRA==",
+                      "value": 643070.1314071327,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "price": {
+                      "id": "QW1vdW50OjAuMjM3MzgwMzU1OTEyODAwMl9VU0Q=",
+                      "value": 0.2373803559128002,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "pricePercentChange": {
+                      "id": "QW1vdW50Oi00LjkwMDU3ODQ0MjEyNjg4N19VU0Q=",
+                      "currency": "USD",
+                      "value": -4.900578442126887,
+                      "__typename": "Amount"
+                  },
+                  "volume": {
+                      "id": "QW1vdW50OjEzMjc2LjkwOTQwMTU2NTc5X1VTRA==",
+                      "value": 13276.90940156579,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "__typename": "TokenMarket"
+              },
+              "project": {
+                  "id": "VG9rZW5Qcm9qZWN0OkVUSEVSRVVNXzB4YmMzOTY2ODk4OTNkMDY1ZjQxYmMyYzZlY2JlZTVlMDA4NTIzMzQ0N19QZXJwZXR1YWwgUHJvdG9jb2w=",
+                  "logoUrl": "https://coin-images.coingecko.com/coins/images/12381/large/60d18e06844a844ad75901a9_mark_only_03.png?1696512205",
+                  "__typename": "TokenProject"
+              },
+              "__typename": "Token"
+          },
+          {
+              "id": "VG9rZW46T1BUSU1JU01fMHhkZmE0NjQ3OGY5ZTVlYTg2ZDU3Mzg3ODQ5NTk4ZGJmYjJlOTY0YjAy",
+              "name": "MAI  Optimism ",
+              "chain": "OPTIMISM",
+              "address": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
+              "symbol": "MIMATIC",
+              "standard": "ERC20",
+              "market": {
+                  "id": "VG9rZW5NYXJrZXQ6T1BUSU1JU01fMHhkRkE0NjQ3OEY5ZTVFQTg2ZDU3Mzg3ODQ5NTk4ZGJGQjJlOTY0YjAyX1VTRA==",
+                  "totalValueLocked": {
+                      "id": "QW1vdW50OjBfVVNE",
+                      "value": 0.0,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "price": {
+                      "id": "QW1vdW50OjBfVVNE",
+                      "value": 0.0,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "pricePercentChange": null,
+                  "volume": {
+                      "id": "QW1vdW50OjEwMzAxLjY4NzMyNzc1NDY4NF9VU0Q=",
+                      "value": 10301.687327754684,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "__typename": "TokenMarket"
+              },
+              "project": {
+                  "id": "VG9rZW5Qcm9qZWN0Ok9QVElNSVNNXzB4ZGZhNDY0NzhmOWU1ZWE4NmQ1NzM4Nzg0OTU5OGRiZmIyZTk2NGIwMl9NQUkgKE9wdGltaXNtKQ==",
+                  "logoUrl": "https://coin-images.coingecko.com/coins/images/35519/large/mimatic-red.png?1709006627",
+                  "__typename": "TokenProject"
+              },
+              "__typename": "Token"
+          },
+          {
+              "id": "VG9rZW46T1BUSU1JU01fMHhlZGYzODY4OGIyNzAzNjgxNmE1MDE4NWNhYTQzMGQ1NDc5ZTFjNjNl",
+              "name": "Overtime DAO Token",
+              "chain": "OPTIMISM",
+              "address": "0xedF38688b27036816A50185cAA430D5479e1C63e",
+              "symbol": "OVER",
+              "standard": "ERC20",
+              "market": {
+                  "id": "VG9rZW5NYXJrZXQ6T1BUSU1JU01fMHhlZEYzODY4OGIyNzAzNjgxNkE1MDE4NWNBQTQzMEQ1NDc5ZTFDNjNlX1VTRA==",
+                  "totalValueLocked": {
+                      "id": "QW1vdW50Ojk0MzQzLjc2NzY4MTE4MV9VU0Q=",
+                      "value": 94343.767681181,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "price": {
+                      "id": "QW1vdW50OjAuMTUxMTUyNTg5NjUwMzE2NDJfVVNE",
+                      "value": 0.15115258965031642,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "pricePercentChange": {
+                      "id": "QW1vdW50Oi0yLjg2NDA4ODEzMTQyMDQxNF9VU0Q=",
+                      "currency": "USD",
+                      "value": -2.864088131420414,
+                      "__typename": "Amount"
+                  },
+                  "volume": {
+                      "id": "QW1vdW50OjYwNzYuNTM3ODgwOTk5OTY3NV9VU0Q=",
+                      "value": 6076.5378809999675,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "__typename": "TokenMarket"
+              },
+              "project": {
+                  "id": "VG9rZW5Qcm9qZWN0OkVUSEVSRVVNXzB4OTBjZTU3MjBjMTc1ODdkMjhlNGFmMTIwYWUyZDMxM2IzYmFkMTcyMl9PdmVydGltZQ==",
+                  "logoUrl": "https://coin-images.coingecko.com/coins/images/54973/large/over.png?1742959291",
+                  "__typename": "TokenProject"
+              },
+              "__typename": "Token"
+          },
+          {
+              "id": "VG9rZW46T1BUSU1JU01fMHg5YmNlZjcyYmU4NzFlNjFlZDRmYmJjNzYzMDg4OWJlZTc1OGViODFk",
+              "name": "Rocket Pool ETH",
+              "chain": "OPTIMISM",
+              "address": "0x9Bcef72be871e61ED4fBbc7630889beE758eb81D",
+              "symbol": "rETH",
+              "standard": "ERC20",
+              "market": {
+                  "id": "VG9rZW5NYXJrZXQ6T1BUSU1JU01fMHg5QmNlZjcyYmU4NzFlNjFFRDRmQmJjNzYzMDg4OWJlRTc1OGViODFEX1VTRA==",
+                  "totalValueLocked": {
+                      "id": "QW1vdW50OjEwMjYwOS4zMTAxMTQ5MTcxM19VU0Q=",
+                      "value": 102609.31011491713,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "price": {
+                      "id": "QW1vdW50OjMwMDcuNTU4ODIzMDEzMTAyX1VTRA==",
+                      "value": 3007.558823013102,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "pricePercentChange": {
+                      "id": "QW1vdW50Oi00LjE0NzM3MDkzMDI2MzQxMV9VU0Q=",
+                      "currency": "USD",
+                      "value": -4.147370930263411,
+                      "__typename": "Amount"
+                  },
+                  "volume": {
+                      "id": "QW1vdW50OjUzODguMDI2NjE4MTA4MTUzX1VTRA==",
+                      "value": 5388.026618108153,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "__typename": "TokenMarket"
+              },
+              "project": {
+                  "id": "VG9rZW5Qcm9qZWN0OkVUSEVSRVVNXzB4YWU3ODczNmNkNjE1ZjM3NGQzMDg1MTIzYTIxMDQ0OGU3NGZjNjM5M19Sb2NrZXQgUG9vbCBFVEg=",
+                  "logoUrl": "https://coin-images.coingecko.com/coins/images/20764/large/reth.png?1696520159",
+                  "__typename": "TokenProject"
+              },
+              "__typename": "Token"
+          },
+          {
+              "id": "VG9rZW46T1BUSU1JU01fMHg0Njc3N2M3NmRiYmU0MGZhYmIyYWFiOTllMzNjZTIwMDU4ZTc2YzU5",
+              "name": "Layer3",
+              "chain": "OPTIMISM",
+              "address": "0x46777C76dBbE40fABB2AAB99E33CE20058e76C59",
+              "symbol": "L3",
+              "standard": "ERC20",
+              "market": {
+                  "id": "VG9rZW5NYXJrZXQ6T1BUSU1JU01fMHg0Njc3N0M3NmRCYkU0MGZBQkIyQUFCOTlFMzNDRTIwMDU4ZTc2QzU5X1VTRA==",
+                  "totalValueLocked": {
+                      "id": "QW1vdW50OjBfVVNE",
+                      "value": 0.0,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "price": {
+                      "id": "QW1vdW50OjBfVVNE",
+                      "value": 0.0,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "pricePercentChange": null,
+                  "volume": {
+                      "id": "QW1vdW50OjQ4MjMuNzQwMzQ1MjM1NjgxX1VTRA==",
+                      "value": 4823.740345235681,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "__typename": "TokenMarket"
+              },
+              "project": {
+                  "id": "VG9rZW5Qcm9qZWN0OkVUSEVSRVVNXzB4ODg5MDlkNDg5Njc4ZGQxN2FhNmQ5NjA5Zjg5YjA0MTliZjc4ZmQ5YV9MYXllcjM=",
+                  "logoUrl": "https://coin-images.coingecko.com/coins/images/37768/large/Square.png?1722045128",
+                  "__typename": "TokenProject"
+              },
+              "__typename": "Token"
+          },
+          {
+              "id": "VG9rZW46T1BUSU1JU01fMHgxMDM5OGFiYzI2NzQ5NmU0OTEwNmIwN2RkNmJlMTMzNjRkMTBkYzcx",
+              "name": "HAI Index Token",
+              "chain": "OPTIMISM",
+              "address": "0x10398AbC267496E49106B07dd6BE13364D10dC71",
+              "symbol": "HAI",
+              "standard": "ERC20",
+              "market": {
+                  "id": "VG9rZW5NYXJrZXQ6T1BUSU1JU01fMHgxMDM5OEFiQzI2NzQ5NkU0OTEwNkIwN2RkNkJFMTMzNjREMTBkQzcxX1VTRA==",
+                  "totalValueLocked": {
+                      "id": "QW1vdW50OjIzMDEwOC4xMTg2OTY2MTUyNV9VU0Q=",
+                      "value": 230108.11869661525,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "price": {
+                      "id": "QW1vdW50OjEuMTc1ODk2MDg0NjEzMjk2NF9VU0Q=",
+                      "value": 1.1758960846132964,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "pricePercentChange": {
+                      "id": "QW1vdW50Oi0wLjA5MzkwMDQ5ODExNzIwMTgzX1VTRA==",
+                      "currency": "USD",
+                      "value": -0.09390049811720183,
+                      "__typename": "Amount"
+                  },
+                  "volume": {
+                      "id": "QW1vdW50OjkyODAuNTcxNDk0NDI0NzE2X1VTRA==",
+                      "value": 9280.571494424716,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "__typename": "TokenMarket"
+              },
+              "project": {
+                  "id": "VG9rZW5Qcm9qZWN0Ok9QVElNSVNNXzB4MTAzOThhYmMyNjc0OTZlNDkxMDZiMDdkZDZiZTEzMzY0ZDEwZGM3MV9MZXQncyBHZXQgSEFJ",
+                  "logoUrl": "https://coin-images.coingecko.com/coins/images/35863/large/hai-logo-200x200.png?1711190591",
+                  "__typename": "TokenProject"
+              },
+              "__typename": "Token"
+          },
+          {
+              "id": "VG9rZW46T1BUSU1JU01fMHg5NTYwZTgyN2FmMzZjOTRkMmFjMzNhMzliY2UxZmU3ODYzMTA4OGRi",
+              "name": "Velodrome Finance",
+              "chain": "OPTIMISM",
+              "address": "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db",
+              "symbol": "VELO",
+              "standard": "ERC20",
+              "market": {
+                  "id": "VG9rZW5NYXJrZXQ6T1BUSU1JU01fMHg5NTYwZTgyN2FGMzZjOTREMkFjMzNhMzliQ0UxRmU3ODYzMTA4OERiX1VTRA==",
+                  "totalValueLocked": {
+                      "id": "QW1vdW50OjBfVVNE",
+                      "value": 0.0,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "price": {
+                      "id": "QW1vdW50OjBfVVNE",
+                      "value": 0.0,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "pricePercentChange": null,
+                  "volume": {
+                      "id": "QW1vdW50OjM0MjguODY0NTk1OTM0NzQ4Nl9VU0Q=",
+                      "value": 3428.8645959347486,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "__typename": "TokenMarket"
+              },
+              "project": {
+                  "id": "VG9rZW5Qcm9qZWN0Ok9QVElNSVNNXzB4OTU2MGU4MjdhZjM2Yzk0ZDJhYzMzYTM5YmNlMWZlNzg2MzEwODhkYl9WZWxvZHJvbWUgRmluYW5jZQ==",
+                  "logoUrl": "https://coin-images.coingecko.com/coins/images/25783/large/velo.png?1696524870",
+                  "__typename": "TokenProject"
+              },
+              "__typename": "Token"
+          },
+          {
+              "id": "VG9rZW46T1BUSU1JU01fMHgwOTk0MjA2ZGZlOGRlNmVjNjkyMGZmNGQ3NzliMGQ5NTA2MDVmYjUz",
+              "name": "Curve DAO Token",
+              "chain": "OPTIMISM",
+              "address": "0x0994206dfE8De6Ec6920FF4D779B0d950605Fb53",
+              "symbol": "CRV",
+              "standard": "ERC20",
+              "market": {
+                  "id": "VG9rZW5NYXJrZXQ6T1BUSU1JU01fMHgwOTk0MjA2ZGZFOERlNkVjNjkyMEZGNEQ3NzlCMGQ5NTA2MDVGYjUzX1VTRA==",
+                  "totalValueLocked": {
+                      "id": "QW1vdW50OjBfVVNE",
+                      "value": 0.0,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "price": {
+                      "id": "QW1vdW50OjBfVVNE",
+                      "value": 0.0,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "pricePercentChange": null,
+                  "volume": {
+                      "id": "QW1vdW50OjQ1OTIuNjI3Mjk4NDMzMzM0X1VTRA==",
+                      "value": 4592.627298433334,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "__typename": "TokenMarket"
+              },
+              "project": {
+                  "id": "VG9rZW5Qcm9qZWN0OkVUSEVSRVVNXzB4ZDUzM2E5NDk3NDBiYjMzMDZkMTE5Y2M3NzdmYTkwMGJhMDM0Y2Q1Ml9DdXJ2ZSBEQU8=",
+                  "logoUrl": "https://coin-images.coingecko.com/coins/images/12124/large/Curve.png?1696511967",
+                  "__typename": "TokenProject"
+              },
+              "__typename": "Token"
+          },
+          {
+              "id": "VG9rZW46T1BUSU1JU01fMHg2ZmQ5ZDdhZDE3MjQyYzQxZjcxMzFkMjU3MjEyYzU0YTBlODE2Njkx",
+              "name": "Uniswap",
+              "chain": "OPTIMISM",
+              "address": "0x6fd9d7AD17242c41f7131d257212c54A0e816691",
+              "symbol": "UNI",
+              "standard": "ERC20",
+              "market": {
+                  "id": "VG9rZW5NYXJrZXQ6T1BUSU1JU01fMHg2ZmQ5ZDdBRDE3MjQyYzQxZjcxMzFkMjU3MjEyYzU0QTBlODE2NjkxX1VTRA==",
+                  "totalValueLocked": {
+                      "id": "QW1vdW50OjBfVVNE",
+                      "value": 0.0,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "price": {
+                      "id": "QW1vdW50OjBfVVNE",
+                      "value": 0.0,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "pricePercentChange": null,
+                  "volume": {
+                      "id": "QW1vdW50OjQyMzMuNTYzNzY5OTI1Mzg2X1VTRA==",
+                      "value": 4233.563769925386,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "__typename": "TokenMarket"
+              },
+              "project": {
+                  "id": "VG9rZW5Qcm9qZWN0OkVUSEVSRVVNXzB4MWY5ODQwYTg1ZDVhZjViZjFkMTc2MmY5MjViZGFkZGM0MjAxZjk4NF9Vbmlzd2Fw",
+                  "logoUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png",
+                  "__typename": "TokenProject"
+              },
+              "__typename": "Token"
+          }
+      ]
+  }
+}

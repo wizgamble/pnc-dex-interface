@@ -1,0 +1,426 @@
+{
+  "data": {
+      "topTokens": [
+          {
+              "id": "VG9rZW46Q0VMT18weDQ3MWVjZTM3NTBkYTIzN2Y5M2I4ZTMzOWM1MzY5ODliODk3OGE0Mzg=",
+              "name": "Celo native asset",
+              "chain": "CELO",
+              "address": "0x471EcE3750Da237f93B8E339c536989b8978a438",
+              "symbol": "CELO",
+              "standard": "NATIVE",
+              "market": {
+                  "id": "VG9rZW5NYXJrZXQ6Q0VMT18weDQ3MUVjRTM3NTBEYTIzN2Y5M0I4RTMzOWM1MzY5ODliODk3OGE0MzhfVVNE",
+                  "totalValueLocked": {
+                      "id": "QW1vdW50OjU3MjAxMzcuMzg1NzgxMTAzX1VTRA==",
+                      "value": 5720137.385781103,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "price": {
+                      "id": "QW1vdW50OjAuMzAzNDYzOTA4MTY0MTIxNl9VU0Q=",
+                      "value": 0.3034639081641216,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "pricePercentChange": {
+                      "id": "QW1vdW50Oi01LjkxNzAyMzA3NTc1MjM0M19VU0Q=",
+                      "currency": "USD",
+                      "value": -5.917023075752343,
+                      "__typename": "Amount"
+                  },
+                  "volume": {
+                      "id": "QW1vdW50OjI3OTg1NzMuODA0NTE0ODg1X1VTRA==",
+                      "value": 2798573.804514885,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "__typename": "TokenMarket"
+              },
+              "project": {
+                  "id": "VG9rZW5Qcm9qZWN0OkNFTE9fMHg0NzFlY2UzNzUwZGEyMzdmOTNiOGUzMzljNTM2OTg5Yjg5NzhhNDM4X0NlbG8=",
+                  "logoUrl": "https://coin-images.coingecko.com/coins/images/11090/large/InjXBNx9_400x400.jpg?1696511031",
+                  "__typename": "TokenProject"
+              },
+              "__typename": "Token"
+          },
+          {
+              "id": "VG9rZW46Q0VMT18weGQ4NzYzY2JhMjc2YTM3MzhlNmRlODViNGIzYmY1ZmRlZDZkNmNhNzM=",
+              "name": "Celo Euro",
+              "chain": "CELO",
+              "address": "0xD8763CBa276a3738E6DE85b4b3bF5FDed6D6cA73",
+              "symbol": "cEUR",
+              "standard": "ERC20",
+              "market": {
+                  "id": "VG9rZW5NYXJrZXQ6Q0VMT18weEQ4NzYzQ0JhMjc2YTM3MzhFNkRFODViNGIzYkY1RkRlZDZENmNBNzNfVVNE",
+                  "totalValueLocked": {
+                      "id": "QW1vdW50OjEzNjc5My42NzkzMzQxNjY2Nl9VU0Q=",
+                      "value": 136793.67933416666,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "price": {
+                      "id": "QW1vdW50OjEuMTU3NTE0Njc5MTA5MjY0X1VTRA==",
+                      "value": 1.157514679109264,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "pricePercentChange": {
+                      "id": "QW1vdW50OjAuODAwNjAxNzI2MzU0NzM2X1VTRA==",
+                      "currency": "USD",
+                      "value": 0.800601726354736,
+                      "__typename": "Amount"
+                  },
+                  "volume": {
+                      "id": "QW1vdW50Ojk0NjgxNS4yNTE3NTQ5OTkyX1VTRA==",
+                      "value": 946815.2517549992,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "__typename": "TokenMarket"
+              },
+              "project": {
+                  "id": "VG9rZW5Qcm9qZWN0OkNFTE9fMHhkODc2M2NiYTI3NmEzNzM4ZTZkZTg1YjRiM2JmNWZkZWQ2ZDZjYTczX0NlbG8gRXVybw==",
+                  "logoUrl": "https://coin-images.coingecko.com/coins/images/16756/large/CEUR.png?1696516329",
+                  "__typename": "TokenProject"
+              },
+              "__typename": "Token"
+          },
+          {
+              "id": "VG9rZW46Q0VMT18weDc2NWRlODE2ODQ1ODYxZTc1YTI1ZmNhMTIyYmI2ODk4YjhiMTI4MmE=",
+              "name": "Celo Dollar",
+              "chain": "CELO",
+              "address": "0x765DE816845861e75A25fCA122bb6898B8B1282a",
+              "symbol": "cUSD",
+              "standard": "ERC20",
+              "market": {
+                  "id": "VG9rZW5NYXJrZXQ6Q0VMT18weDc2NURFODE2ODQ1ODYxZTc1QTI1ZkNBMTIyYmI2ODk4QjhCMTI4MmFfVVNE",
+                  "totalValueLocked": {
+                      "id": "QW1vdW50OjExMDg0MTkuMTc5NjA4OTk1Nl9VU0Q=",
+                      "value": 1108419.1796089956,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "price": {
+                      "id": "QW1vdW50OjAuOTk5OTk5OTk5OTk5OTk5OV9VU0Q=",
+                      "value": 0.9999999999999999,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "pricePercentChange": {
+                      "id": "QW1vdW50Oi0xLjExMDIyMzAyNDYyNTE1NjVlLTE0X1VTRA==",
+                      "currency": "USD",
+                      "value": -1.1102230246251565E-14,
+                      "__typename": "Amount"
+                  },
+                  "volume": {
+                      "id": "QW1vdW50OjE0NTk4NzAuNzMwNDM3Mjc4N19VU0Q=",
+                      "value": 1459870.7304372787,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "__typename": "TokenMarket"
+              },
+              "project": {
+                  "id": "VG9rZW5Qcm9qZWN0OkNFTE9fMHg3NjVkZTgxNjg0NTg2MWU3NWEyNWZjYTEyMmJiNjg5OGI4YjEyODJhX0NlbG8gRG9sbGFy",
+                  "logoUrl": "https://coin-images.coingecko.com/coins/images/13161/large/icon-celo-dollar-color-1000-circle-cropped.png?1696512945",
+                  "__typename": "TokenProject"
+              },
+              "__typename": "Token"
+          },
+          {
+              "id": "VG9rZW46Q0VMT18weDQ4MDY1ZmJiZTI1ZjcxYzkyODJkZGY1ZTFjZDZkNmE4ODc0ODNkNWU=",
+              "name": "Tether USD",
+              "chain": "CELO",
+              "address": "0x48065fbBE25f71C9282ddf5e1cD6D6A887483D5e",
+              "symbol": "USD₮",
+              "standard": "ERC20",
+              "market": {
+                  "id": "VG9rZW5NYXJrZXQ6Q0VMT18weDQ4MDY1ZmJCRTI1ZjcxQzkyODJkZGY1ZTFjRDZENkE4ODc0ODNENWVfVVNE",
+                  "totalValueLocked": {
+                      "id": "QW1vdW50OjI1ODY5MTEuMzc4MzUzMzhfVVNE",
+                      "value": 2586911.37835338,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "price": {
+                      "id": "QW1vdW50OjEuMDAwMzM4OTE1ODcyNzg2Ml9VU0Q=",
+                      "value": 1.0003389158727862,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "pricePercentChange": {
+                      "id": "QW1vdW50Oi0wLjAwMTc3MjkzNDkxNDk0MjY2NTZfVVNE",
+                      "currency": "USD",
+                      "value": -0.0017729349149426656,
+                      "__typename": "Amount"
+                  },
+                  "volume": {
+                      "id": "QW1vdW50OjE4NTkxNTcuNzAzMTgwMzEzX1VTRA==",
+                      "value": 1859157.703180313,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "__typename": "TokenMarket"
+              },
+              "project": {
+                  "id": "VG9rZW5Qcm9qZWN0OkVUSEVSRVVNXzB4ZGFjMTdmOTU4ZDJlZTUyM2EyMjA2MjA2OTk0NTk3YzEzZDgzMWVjN19UZXRoZXI=",
+                  "logoUrl": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
+                  "__typename": "TokenProject"
+              },
+              "__typename": "Token"
+          },
+          {
+              "id": "VG9rZW46Q0VMT18weGNlYmE5MzAwZjJiOTQ4NzEwZDI2NTNkZDdiMDdmMzNhOGIzMjExOGM=",
+              "name": "USDC",
+              "chain": "CELO",
+              "address": "0xcebA9300f2b948710d2653dD7B07f33A8B32118C",
+              "symbol": "USDC",
+              "standard": "ERC20",
+              "market": {
+                  "id": "VG9rZW5NYXJrZXQ6Q0VMT18weGNlYkE5MzAwZjJiOTQ4NzEwZDI2NTNkRDdCMDdmMzNBOEIzMjExOENfVVNE",
+                  "totalValueLocked": {
+                      "id": "QW1vdW50OjQ4NDc1Ny41OTI3NjZfVVNE",
+                      "value": 484757.592766,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "price": {
+                      "id": "QW1vdW50OjAuOTk5MjgzMzUxNDQyMDMxMV9VU0Q=",
+                      "value": 0.9992833514420311,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "pricePercentChange": {
+                      "id": "QW1vdW50Oi0wLjA3MTY2NDg1NTc5Njg5MzUyX1VTRA==",
+                      "currency": "USD",
+                      "value": -0.07166485579689352,
+                      "__typename": "Amount"
+                  },
+                  "volume": {
+                      "id": "QW1vdW50OjgxMjk0OS40MjgyMTcxNzI2X1VTRA==",
+                      "value": 812949.4282171726,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "__typename": "TokenMarket"
+              },
+              "project": {
+                  "id": "VG9rZW5Qcm9qZWN0OkVUSEVSRVVNXzB4YTBiODY5OTFjNjIxOGIzNmMxZDE5ZDRhMmU5ZWIwY2UzNjA2ZWI0OF9VU0RD",
+                  "logoUrl": "https://coin-images.coingecko.com/coins/images/6319/large/usdc.png?1696506694",
+                  "__typename": "TokenProject"
+              },
+              "__typename": "Token"
+          },
+          {
+              "id": "VG9rZW46Q0VMT18weDY2ODAzZmI4N2FiZDRhYWMzY2JiM2ZhZDdjM2FhMDFmNmYzZmIyMDc=",
+              "name": "Wrapped Ether (Wormhole)",
+              "chain": "CELO",
+              "address": "0x66803FB87aBd4aaC3cbB3fAd7C3aa01f6F3FB207",
+              "symbol": "WETH",
+              "standard": "ERC20",
+              "market": {
+                  "id": "VG9rZW5NYXJrZXQ6Q0VMT18weDY2ODAzRkI4N2FCZDRhYUMzY2JCM2ZBZDdDM2FhMDFmNkYzRkIyMDdfVVNE",
+                  "totalValueLocked": {
+                      "id": "QW1vdW50OjQxNDU0LjMxNDY4OTg4OTcyNV9VU0Q=",
+                      "value": 41454.314689889725,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "price": {
+                      "id": "QW1vdW50OjI2OTUuNTEzMTg1MTUzMTUzMl9VU0Q=",
+                      "value": 2695.5131851531532,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "pricePercentChange": {
+                      "id": "QW1vdW50Oi0wLjA5NTUxNzY1NDkxODM4OTJfVVNE",
+                      "currency": "USD",
+                      "value": -0.0955176549183892,
+                      "__typename": "Amount"
+                  },
+                  "volume": {
+                      "id": "QW1vdW50OjEzMjkyLjM1ODYzOTI0MDI2NV9VU0Q=",
+                      "value": 13292.358639240265,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "__typename": "TokenMarket"
+              },
+              "project": {
+                  "id": "VG9rZW5Qcm9qZWN0OkNFTE9fMHg2NjgwM2ZiODdhYmQ0YWFjM2NiYjNmYWQ3YzNhYTAxZjZmM2ZiMjA3X1dvcm1ob2xlIEJyaWRnZWQgV0VUSCAoQ2Vsbyk=",
+                  "logoUrl": "https://coin-images.coingecko.com/coins/images/39887/large/weth.png?1724683172",
+                  "__typename": "TokenProject"
+              },
+              "__typename": "Token"
+          },
+          {
+              "id": "VG9rZW46Q0VMT18weGU4NTM3YTNkMDU2ZGE0NDY2NzdiOWU5ZDZjNWRiNzA0ZWFhYjQ3ODc=",
+              "name": "Celo Brazilian Real",
+              "chain": "CELO",
+              "address": "0xe8537a3d056DA446677B9E9d6c5dB704EaAb4787",
+              "symbol": "cREAL",
+              "standard": "ERC20",
+              "market": {
+                  "id": "VG9rZW5NYXJrZXQ6Q0VMT18weGU4NTM3YTNkMDU2REE0NDY2NzdCOUU5ZDZjNWRCNzA0RWFBYjQ3ODdfVVNE",
+                  "totalValueLocked": {
+                      "id": "QW1vdW50OjI5ODQ0Ljg0MzcyMDc2MDA4N19VU0Q=",
+                      "value": 29844.843720760087,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "price": {
+                      "id": "QW1vdW50OjAuMTc5NzQ3MTAyNzc2OTU1NDZfVVNE",
+                      "value": 0.17974710277695546,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "pricePercentChange": {
+                      "id": "QW1vdW50OjAuMDEyNjg1NTIyNDg4MjEzNzM0X1VTRA==",
+                      "currency": "USD",
+                      "value": 0.012685522488213734,
+                      "__typename": "Amount"
+                  },
+                  "volume": {
+                      "id": "QW1vdW50OjEwMDkzMi44MDM4ODM2NzE3Nl9VU0Q=",
+                      "value": 100932.80388367176,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "__typename": "TokenMarket"
+              },
+              "project": {
+                  "id": "VG9rZW5Qcm9qZWN0OkNFTE9fMHhlODUzN2EzZDA1NmRhNDQ2Njc3YjllOWQ2YzVkYjcwNGVhYWI0Nzg3X0NlbG8gUmVhbCAoY1JFQUwp",
+                  "logoUrl": "https://coin-images.coingecko.com/coins/images/27205/large/creal.png?1696526254",
+                  "__typename": "TokenProject"
+              },
+              "__typename": "Token"
+          },
+          {
+              "id": "VG9rZW46Q0VMT18weDczZjkzZGNjNDljYjhhMjM5ZTIwMzI2NjNlOTQ3NWRkNWVmMjlhMDg=",
+              "name": "ECO CFA",
+              "chain": "CELO",
+              "address": "0x73F93dcc49cB8A239e2032663e9475dd5ef29A08",
+              "symbol": "eXOF",
+              "standard": "ERC20",
+              "market": {
+                  "id": "VG9rZW5NYXJrZXQ6Q0VMT18weDczRjkzZGNjNDljQjhBMjM5ZTIwMzI2NjNlOTQ3NWRkNWVmMjlBMDhfVVNE",
+                  "totalValueLocked": {
+                      "id": "QW1vdW50OjI2NDg0LjkxMjQ4MzcxNTM5OF9VU0Q=",
+                      "value": 26484.912483715398,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "price": {
+                      "id": "QW1vdW50OjAuMDAxNzQ3NjA5OTkwNTAwMjUxX1VTRA==",
+                      "value": 0.001747609990500251,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "pricePercentChange": {
+                      "id": "QW1vdW50OjAuNTc2Njk2MzIxMjE0NDQzMV9VU0Q=",
+                      "currency": "USD",
+                      "value": 0.5766963212144431,
+                      "__typename": "Amount"
+                  },
+                  "volume": {
+                      "id": "QW1vdW50OjM4OTY3LjcyNjM4MTEyMzA2Nl9VU0Q=",
+                      "value": 38967.726381123066,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "__typename": "TokenMarket"
+              },
+              "project": {
+                  "id": "VG9rZW5Qcm9qZWN0OkNFTE9fMHg3M2Y5M2RjYzQ5Y2I4YTIzOWUyMDMyNjYzZTk0NzVkZDVlZjI5YTA4X0VDTyBDRkE=",
+                  "logoUrl": "https://raw.githubusercontent.com/mento-protocol/mento-web/refs/heads/main/public/tokens/eXOF.svg",
+                  "__typename": "TokenProject"
+              },
+              "__typename": "Token"
+          },
+          {
+              "id": "VG9rZW46Q0VMT18weDQ1NmEzZDA0MmMwZGJkM2RiNTNkNTQ4OWU5OGRmYjAzODU1M2IwZDA=",
+              "name": "Celo Kenyan Shilling",
+              "chain": "CELO",
+              "address": "0x456a3D042C0DbD3db53D5489e98dFb038553B0d0",
+              "symbol": "cKES",
+              "standard": "ERC20",
+              "market": {
+                  "id": "VG9rZW5NYXJrZXQ6Q0VMT18weDQ1NmEzRDA0MkMwRGJEM2RiNTNENTQ4OWU5OGRGYjAzODU1M0IwZDBfVVNE",
+                  "totalValueLocked": {
+                      "id": "QW1vdW50OjE3Mzg3Mi40MTAzNjE5OTE1M19VU0Q=",
+                      "value": 173872.41036199153,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "price": {
+                      "id": "QW1vdW50OjAuMDA3NzExOTk1NjAyNTg4NjY4X1VTRA==",
+                      "value": 0.007711995602588668,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "pricePercentChange": {
+                      "id": "QW1vdW50Oi0wLjIwMTAwMzE5OTAxOTE5MjQ3X1VTRA==",
+                      "currency": "USD",
+                      "value": -0.20100319901919247,
+                      "__typename": "Amount"
+                  },
+                  "volume": {
+                      "id": "QW1vdW50OjM3MjQxLjcyNDc4NjYzOTIxX1VTRA==",
+                      "value": 37241.72478663921,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "__typename": "TokenMarket"
+              },
+              "project": {
+                  "id": "VG9rZW5Qcm9qZWN0OkNFTE9fMHg0NTZhM2QwNDJjMGRiZDNkYjUzZDU0ODllOThkZmIwMzg1NTNiMGQwX0NlbG8gS2VueWFuIFNoaWxsaW5n",
+                  "logoUrl": "https://coin-images.coingecko.com/coins/images/38052/large/cKES_200x200.png?1716403445",
+                  "__typename": "TokenProject"
+              },
+              "__typename": "Token"
+          },
+          {
+              "id": "VG9rZW46Q0VMT18weDRmNjA0NzM1YzFjZjMxMzk5YzZlNzExZDU5NjJiMmIzZTAyMjVhZDM=",
+              "name": "Glo Dollar",
+              "chain": "CELO",
+              "address": "0x4F604735c1cF31399C6E711D5962b2B3E0225AD3",
+              "symbol": "USDGLO",
+              "standard": "ERC20",
+              "market": {
+                  "id": "VG9rZW5NYXJrZXQ6Q0VMT18weDRGNjA0NzM1YzFjRjMxMzk5QzZFNzExRDU5NjJiMkIzRTAyMjVBRDNfVVNE",
+                  "totalValueLocked": {
+                      "id": "QW1vdW50OjExMDc5MC4zNjU5ODE0MDk4X1VTRA==",
+                      "value": 110790.3659814098,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "price": {
+                      "id": "QW1vdW50OjAuOTk5MjA4MTE1OTE4MzcwNl9VU0Q=",
+                      "value": 0.9992081159183706,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "pricePercentChange": {
+                      "id": "QW1vdW50Oi0wLjAxMTM1MTczNDg5Mjk2NjQ4X1VTRA==",
+                      "currency": "USD",
+                      "value": -0.01135173489296648,
+                      "__typename": "Amount"
+                  },
+                  "volume": {
+                      "id": "QW1vdW50OjEzNTk2LjE2NDY1MjM0MDExNF9VU0Q=",
+                      "value": 13596.164652340114,
+                      "currency": "USD",
+                      "__typename": "Amount"
+                  },
+                  "__typename": "TokenMarket"
+              },
+              "project": {
+                  "id": "VG9rZW5Qcm9qZWN0OkVUSEVSRVVNXzB4NGY2MDQ3MzVjMWNmMzEzOTljNmU3MTFkNTk2MmIyYjNlMDIyNWFkM19HbG8gRG9sbGFy",
+                  "logoUrl": "https://coin-images.coingecko.com/coins/images/29319/large/GLO_logo_pine_on_cyan_1_3.png?1716971065",
+                  "__typename": "TokenProject"
+              },
+              "__typename": "Token"
+          }
+      ]
+  }
+}

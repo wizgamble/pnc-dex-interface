@@ -7,11 +7,12 @@ import {
 } from "components/Tokens/state";
 import gql from "graphql-tag";
 import { useAtomValue } from "jotai/utils";
-import { useMemo } from "react";
+import { useMemo, useState, useEffect } from "react";
 
 import {
   Chain,
   TopTokens100Query,
+  TopTokensSparklineQuery,
   useTopTokens100Query,
   useTopTokensSparklineQuery,
 } from "./__generated__/types-and-hooks";
@@ -156,6 +157,46 @@ function useFilteredTokens(tokens: TopTokens100Query["topTokens"]) {
   }, [tokens, lowercaseFilterString]);
 }
 
+const useMockSparkline = (chain: Chain): { data: TopTokensSparklineQuery | undefined, loading: boolean } => {
+  const [loading, setLoading] = useState(true);
+  const [data, setData] = useState<TopTokensSparklineQuery | undefined>(undefined);
+
+  useEffect(() => {
+    setLoading(true);
+    setData(undefined);
+    const mockData = require(`./mockData/sparkline/${chain.toLowerCase()}.json`);
+    
+    const timer = setTimeout(() => {
+      setData(mockData.data);
+      setLoading(false);
+    }, 3000);
+
+    return () => clearTimeout(timer);
+  }, [chain]);
+
+  return { data, loading };
+};
+
+const useMockTopTokens100 = (chain: Chain): { data: TopTokens100Query | undefined, loading: boolean } => {
+  const [loading, setLoading] = useState(true);
+  const [data, setData] = useState<TopTokens100Query | undefined>(undefined);
+
+  useEffect(() => {
+    setLoading(true);
+    setData(undefined);
+    const mockData = require(`./mockData/topTokens/${chain.toLowerCase()}.json`);
+    
+    const timer = setTimeout(() => {
+      setData(mockData.data);
+      setLoading(false);
+    }, 3000);
+
+    return () => clearTimeout(timer);
+  }, [chain]);
+
+  return { data, loading };
+};
+
 // Number of items to render in each fetch in infinite scroll.
 export const PAGE_SIZE = 20;
 export type SparklineMap = { [key: string]: PricePoint[] | undefined };
@@ -174,12 +215,7 @@ export function useTopTokens(chain: Chain): UseTopTokensReturnValue {
   const chainId = CHAIN_NAME_TO_CHAIN_ID[chain];
   const duration = toHistoryDuration(useAtomValue(filterTimeAtom));
 
-  const { data: sparklineQuery } = usePollQueryWhileMounted(
-    useTopTokensSparklineQuery({
-      variables: { duration, chain },
-    }),
-    PollingInterval.Slow
-  );
+  const { data: sparklineQuery, loading: sparklineLoading } = useMockSparkline(chain);
 
   const sparklines = useMemo(() => {
     const unwrappedTokens = sparklineQuery?.topTokens?.map((topToken) =>
@@ -195,13 +231,8 @@ export function useTopTokens(chain: Chain): UseTopTokensReturnValue {
     return map;
   }, [chainId, sparklineQuery?.topTokens]);
 
-  const { data, loading: loadingTokens } = usePollQueryWhileMounted(
-    useTopTokens100Query({
-      variables: { duration, chain },
-    }),
-    PollingInterval.Fast
-  );
-
+  const { data, loading: loadingTokens } = useMockTopTokens100(chain);
+  
   const unwrappedTokens = useMemo(
     () => data?.topTokens?.map((token) => unwrapToken(chainId, token)),
     [chainId, data]
